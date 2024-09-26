@@ -26,7 +26,7 @@ Welcome to the AutoGluon Assignment repository! This project showcases various a
 3. **Image Classifier**
    - 3.1 [Beginner Image Classification](https://github.com/syedanida/autogluon/blob/main/colabs/image/beginner_image.ipynb)
    - 3.2 [Zero Shot Classification](https://github.com/syedanida/autogluon/blob/main/colabs/image/clip_zeroshot.ipynb)
-   - 3.3 [Image Object Detection]()
+   - 3.3 [Image Object Detection](https://github.com/syedanida/autogluon/blob/main/colabs/image/quick_start_coco.ipynb)
    - 3.4 [Image Segmentation](https://github.com/syedanida/autogluon/blob/main/colabs/image/beginner_semantic_seg.ipynb)
    - 3.5 [Document Classification](https://github.com/syedanida/autogluon/blob/main/colabs/image/document_classification.ipynb)
    - 3.6 [PDF classification](https://github.com/syedanida/autogluon/blob/main/colabs/image/pdf_classification.ipynb)
