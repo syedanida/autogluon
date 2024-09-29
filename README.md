@@ -51,13 +51,13 @@ Welcome to the AutoGluon Assignment repository! This project showcases various a
    - 7.1 [Beginner Multimodal](https://github.com/syedanida/autogluon/blob/main/colabs/multi_modal_image_text_tabular/image_text_tabular_QuickStart.ipynb)
 
 ## Video Links
-- **Tabular Classification/Regression Video**: [Link]
-- **Text Classification Video**: [Link]
-- **Image Classification Video**: [Link]
-- **Semantic Matching Video**: [Link]
-- **Multimodal Usecase**: [Link]
-- **Time Series Forecasting Video**: [Link]
-- **Multimodal Image Text Tabular**: [Link]
+- **Tabular Classification/Regression Video**: https://youtu.be/VJnCBSIYyOI
+- **Text Classification Video**: https://youtu.be/Ilk7uKJez38
+- **Image Classification Video**: https://youtu.be/cpwVBOeCZSc
+- **Semantic Matching Video**: https://youtu.be/etfPFMcw85k
+- **Multimodal Usecase**: https://youtu.be/2d3lAPHm_H8
+- **Time Series Forecasting Video**: https://youtu.be/Rj8TG2F2CIg
+- **Multimodal Image Text Tabular**: https://youtu.be/m8rvcydZxQY
 
 ## Conclusion
 This repository serves as a comprehensive resource for exploring AutoGluon's capabilities across various machine learning tasks. By engaging with these notebooks and video tutorials, you will not only enhance your technical skills but also gain valuable insights into the world of automated machine learning. Happy coding!
